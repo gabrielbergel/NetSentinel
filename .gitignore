@@ -1,0 +1,30 @@
+Arquivos de Ambiente e Senhas (CRÍTICO)
+
+.env
+.env.local
+
+Ambiente Virtual (Venv)
+
+venv/
+env/
+.venv/
+
+Bytecode Python (Lixo gerado automaticamente)
+
+pycache/
+*.pyc
+
+Logs e Capturas geradas pelo TCPDump
+
+*.txt
+*.pcap
+*.cap
+
+Pasta de Histórico (Opcional: Se não quiser subir os relatórios gerados)
+
+history/
+
+Arquivos de sistema operacional
+
+.DS_Store
+Thumbs.db
